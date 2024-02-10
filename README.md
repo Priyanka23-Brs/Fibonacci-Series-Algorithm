@@ -4,4 +4,4 @@
 
 ##### The algorithm updates fibNMinus2 and fibNMinus1 in each iteration to keep track of the last two Fibonacci numbers. Finally, it returns the n-th Fibonacci number, which is stored in the variable fib.
 
-#### Check out the live app [here](https://priyanka23-brs.github.io/Call-Center/).
+#### Check out the live app [here](https://priyanka23-brs.github.io/Fibonacci-Series-Algorithm/).
